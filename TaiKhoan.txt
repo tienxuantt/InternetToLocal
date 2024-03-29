@@ -1,0 +1,33 @@
+https://pam-portal.misaonline.vpnlocal/
+sdc-user6
+SDCUser06@2024@
+sdc-user2
+123456789@Abcd
+
+https://k8smonitor.misaonline.vpnlocal/login
+viewer 12345678@
+
+https://registerqltsv2.misaonline.vpnlocal/login
+
+https://elksoft.misaonline.vpnlocal/s
+elastic/Misa@2020
+
+https://elksoft.misaonline.vpnlocal/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))&_a=(columns:!(message,exception,tenant_code,url),filters:!(('$state':(store:appState),meta:(alias:!n,disabled:!f,index:dc0eb310-b5ab-11ee-9590-4d412db452be,key:app_id,negate:!f,params:(query:qltsv2),type:phrase),query:(match_phrase:(app_id:qltsv2)))),index:dc0eb310-b5ab-11ee-9590-4d412db452be,interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
+elastic/12345678@Abc
+
+https://csdlqgtsc-sso.mof.gov.vn/
+T41016/ mk:Quynhluu@123
+ptchungyen/Tctp@2024
+
+setInterval(function(){$(".search-button").click();},10000);
+
+DELETE a
+FROM sc_user_role a
+INNER JOIN user b ON a.user_id = b.user_id
+WHERE b.user_name = 'misaqlts';
+
+DELETE FROM user WHERE user_name = 'misaqlts';
+DELETE FROM activity_diary WHERE user_name LIKE '%misaqlts%';
+
+=MID(A1; SEARCH("#"; A1) + 1; SEARCH("#"; A1; SEARCH("#"; A1) + 3) - SEARCH("#"; A1) - 1)
+
